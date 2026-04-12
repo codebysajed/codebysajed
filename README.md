@@ -7,13 +7,12 @@
 
 ## 🚀 About Me
 
-- 🧠 I build real-world AI systems and applications  
-- 🤖 Focused on ML, DL, NLP, Computer Vision & LLMs  
-- 📄 Working on OCR + RAG document intelligence systems  
-- 📰 Building AI-powered news intelligence systems  
-- 👁️ Experience with YOLO & object detection  
-- 🔗 Exploring Agentic AI & LangGraph workflows  
-- 🎯 Goal: Become a strong AI Engineer  
+- 🧠 I build real-world AI systems and RAG-based applications  
+- 🤖 Focused on LLMs, RAG pipelines & AI Agents  
+- 📰 Building AI-powered news intelligence systems using RAG  
+- 🔍 Experience with retrieval-based systems (FAISS, embeddings)  
+- 🔗 Working with Agentic AI & LangGraph workflows  
+- 🎯 Goal: Become a strong AI Engineer specializing in RAG & Agents   
 
 ---
 
