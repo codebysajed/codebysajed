@@ -99,9 +99,8 @@
 
 ## 🌐 Connect With Me
 
-- GitHub: https://github.com/codebysajed 
-- LinkedIn: https://www.linkedin.com/in/codebysajed/
-- Email: sajedulislam.pentest@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/codebysajed/)
+- Email: [sajedulislam.pentest@gmail.com](mailto:sajedulislam.pentest@gmail.com)
 
 ---
 
