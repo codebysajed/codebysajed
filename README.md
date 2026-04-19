@@ -93,7 +93,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?codebysajed&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=codebysajed&show_icons=true&theme=radical)
 
 ---
 
