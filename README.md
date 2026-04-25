@@ -3,6 +3,7 @@
 
 💻 AI Developer | Machine Learning | Deep Learning | NLP | Computer Vision | LLM | RAG | Agentic AI
 
+![LeetCode Stats](https://github-readme-leetcode-card.romitsagu.com/Md_sajedul_islam?show=graph,recent)
 ---
 
 ## 🚀 About Me
